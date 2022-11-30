@@ -1,0 +1,6 @@
+b. When should you use a Set over a List?
+ans:
+1. list allow duplicates whereas set don't allow duplicates i.e, in list you can add same element more than once
+but in case of set you can't.
+2. list maintain insertion order i.e, it stores element in the same order as you put into it whereas in case of set
+it changes its order randomly.

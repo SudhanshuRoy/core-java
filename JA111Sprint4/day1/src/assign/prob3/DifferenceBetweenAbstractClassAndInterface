@@ -1,0 +1,10 @@
+Que: Difference between Interface and Abstract Class?
+Ans:
+1.Interface implements 100% abstraction all the methods are public and abstract and all the variables are final and static.
+whereas in abstract class you can implements 0 to 100% abstraction. It contains both types of methods abstract and non-abstract.
+
+but after java 8 you can create default method which is not abstract and automatically implemented.
+
+2. Interface can extend Interface but can't implement any class whereas Abstract class extends other class and implements interface.
+
+

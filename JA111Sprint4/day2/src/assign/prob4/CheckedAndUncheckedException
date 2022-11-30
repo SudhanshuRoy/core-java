@@ -1,0 +1,11 @@
+Explain the difference between Checked and Unchecked exception?
+
+ans:
+1. Exceptions which are checked at compile time only by compiler is know as checked or compile time exceptions.
+all the classes which inherits throwable class directly except run time error and exception is know as  checked exceptions.
+example: IOException,SQL exceptions
+
+2.Exceptions which are not checked at compile time or even if you not handle or declare compiler will not give you
+any error but unchecked exception are checked at runtime for example: ArrayOutOfBondException, NullPointerException,
+ArithmeticException.
+

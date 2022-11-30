@@ -1,0 +1,7 @@
+d. What is the difference between throw and throws. Write the code
+for the same.
+ans: 1. throws keyword used in method signature to declare which types of exception this method can throw so that
+while calling this method these methods can be handled.
+
+ 2. throw keyword use to throw exceptions in side the method of block of code.
+ in class it is explained with example.

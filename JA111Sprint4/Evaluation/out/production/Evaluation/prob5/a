@@ -1,0 +1,7 @@
+When should you use LinkedList over ArrayList?
+ans:
+ArrayList is dynamic array searching element is affordable but frequently insertion and deletion in arraylist is
+quit expensive. In insertion or deletion you have to shift all the element one index right from insertion point to end.
+and lly in deletion you have to shift forward.
+  Whereas in arraylist insertion and deletion is affordable we can easily inset of delete element form any position
+  and we don't have any element forward of backward. for this advantage you should use LinkedList over ArrayList.
